@@ -22,7 +22,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"golang.org/x/tools/go/gcexportdata"
+	"github.com/golang/tools/tree/master/go/gccgoexportdata"
+	//https://github.com/golang/tools/tree/master/go/gccgoexportdata
 )
 
 const styleGuideBase = "https://golang.org/wiki/CodeReviewComments"
