@@ -22,7 +22,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/golang/tools/tree/master/go/gccgoexportdata"
+	"github.com/golang/tools/go/gccgoexportdata"
 	//https://github.com/golang/tools/tree/master/go/gccgoexportdata
 )
 
